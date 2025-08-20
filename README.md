@@ -10,7 +10,7 @@
 
 🔍 I love exploring:
 - Real-world applications of **AI & ML** in fields like recommendation systems, automation, and data-driven decision making.
-- Clean and responsive UI/UX through **web** and **Flutter** mobile development.
+- Clean and responsive UI/UX through **web** .
 
 🛠 I’m always working to improve my ability to think algorithmically and write efficient code, and I enjoy collaborating on:
 - Open-source projects that use data to create insights.
@@ -21,11 +21,11 @@
 
 🔭 I’m currently working on  
 &nbsp;&nbsp;&nbsp;&nbsp;• Exploring competitive programming problems on Codeforces and LeetCode.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Developing web and mobile app projects to strengthen my problem-solving and coding skills.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Developing web projects to strengthen my problem-solving and coding skills.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Building beginner-friendly machine learning projects using Python libraries.
 
 👯 I’m looking to collaborate on  
-&nbsp;&nbsp;&nbsp;&nbsp;• Open-source projects related to web development, mobile apps (especially with Flutter), and educational ML projects.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Open-source projects related to web development, and educational ML projects.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Innovative ideas in data science and machine learning for beginners.
 
 🤝 I’m looking for help with  
@@ -34,12 +34,11 @@
 
 🌱 I’m currently learning  
 &nbsp;&nbsp;&nbsp;&nbsp;• Machine Learning fundamentals using Python, NumPy, pandas, matplotlib, and scikit-learn  
-&nbsp;&nbsp;&nbsp;&nbsp;• Mobile application development with **Flutter & Dart**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Responsive web design and advanced CSS techniques  
 &nbsp;&nbsp;&nbsp;&nbsp;• SQL, database normalization, and anomaly handling
 
 💬 Ask me about  
-&nbsp;&nbsp;&nbsp;&nbsp;• Getting started with web dev, competitive programming, or app development  
+&nbsp;&nbsp;&nbsp;&nbsp;• Getting started with web dev, competitive programming 
 &nbsp;&nbsp;&nbsp;&nbsp;• How I approach building projects and balancing university and personal learning  
 &nbsp;&nbsp;&nbsp;&nbsp;• Learning paths in data science and machine learning
 
