@@ -21,7 +21,7 @@
 ## 🔭 Currently Working On
 - Solving algorithmic problems on **Codeforces & LeetCode**
 - Building **full-stack web applications**
-- Creating **beginner-friendly ML projects** with Python
+- Creating **ML projects** with Python
 - Strengthening backend & database design skills
 
 ---
@@ -37,15 +37,6 @@
 - Advanced **machine learning algorithms**
 - Backend system design & scalability
 - Writing clean, production-ready code
-
----
-
-## 🌱 Currently Learning
-- Machine Learning fundamentals (scikit-learn, NumPy, pandas)
-- Backend development with Node.js & Django
-- SQL optimization & database normalization
-- Responsive web design & advanced CSS
-- Docker & API documentation
 
 ---
 
